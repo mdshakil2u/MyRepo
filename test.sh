@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Get file from git hub !!!!!!!!"
-NAME=$2
+NAME=$1
 echo "Hello "$NAME
