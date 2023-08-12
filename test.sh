@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "Get file from git***************"
+echo "Get file from github #######"
 date
-hostname -i
+time
 NAME=$1
 echo "Hello "$NAME
